@@ -22,4 +22,4 @@
 - **Hospedagem e Publicação:** **GitHub Pages**.
 
 ### 5. Endereço da Dashboard Publicada
-- 🌐 **Link de Acesso (GitHub Pages):** https://github.com/ailton0015/trabalho-porsche/tree/main
+- 🌐 **Link de Acesso (GitHub Pages):** https://github.com/ailton0015/trabalho-porsche
